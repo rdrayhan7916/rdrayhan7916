@@ -1,7 +1,7 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_LH7yxozJdrtdUaVXoB7eHC7T3cZU6LeYDQ&usqp=CAU)
 # Hi there 👋, HEY MY NAME IS MD. RAYHAN
 ## I AM MERN STACK DEVELOPER
-![I AM MERN STACK DEVELOPER]
+
 
 I have extensive knowledge of HTML, CSS, Bootstrap, Tailwind, JavaScript, React, React Router Dom,MUI, Node.js, MongoDB, Github and Firebase. Combined with my communication and problem solving skills.
 
